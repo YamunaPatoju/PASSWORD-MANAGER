@@ -1,6 +1,10 @@
 # PASSWORD-MANAGER
 PASSWORD MANAGER
+
+
 This is a simple yet secure Password Manager application built using Python and Tkinter. It allows users to store, generate, and retrieve passwords for different websites securely.
+
+
 FEATURE:
 -Generate Password: Create a random password with a mix of letters, numbers, and symbols.
 -Save Password: Save website login credentials (website, email/username, and password) to a secure data.json file.
